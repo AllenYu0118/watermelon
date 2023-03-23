@@ -10,8 +10,6 @@ export default <RouterOptions>{
       },
     ])
 
-    // console.log('routes: ', routes);
-
     return routes
   }
 }
